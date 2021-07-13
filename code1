@@ -14,4 +14,4 @@ Route::view('sitemap.xml','sitemap');
     @endforeach
 </urlset>
 
-// more detail: https://bit.ly/36v9Elp
+// 
